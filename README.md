@@ -1,1 +1,1 @@
-# Sample-Flutter-Projects
+# GenericProjectStructure
